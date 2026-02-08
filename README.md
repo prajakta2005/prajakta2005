@@ -1,4 +1,22 @@
-## Hi there 👋
+# Prajakta Joshi
+
+Information Technology undergraduate building reliable software systems and applied machine learning solutions.
+
+Currently working on real-world ML pipelines, Data Structures and Flutter Development.
+
+## Tools & Technologies
+ Java, SQL,Python, Flutter, FastAPI, Docker, Git, Machine Learning, Deep Learning
+
+## Current Focus
+Applied machine learning • GenAI • Data Structures
+
+## Resume
+📄 Resume: https://drive.google.com/file/d/1FJsfoZi_mACV4hBGCuMajCxnuz8kFxxn/view?usp=sharing
+
+## Connect
+GitHub: https://github.com/prajakta2005  
+LinkedIn: https://linkedin.com/in/joshiprajakta23
+
 
 <!--
 **prajakta2005/prajakta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
