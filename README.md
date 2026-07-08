@@ -11,7 +11,7 @@ Currently working on real-world ML pipelines, Data Structures and Flutter Develo
 Applied machine learning • GenAI • Data Structures
 
 ## Resume
-📄 Resume: https://drive.google.com/file/d/1FJsfoZi_mACV4hBGCuMajCxnuz8kFxxn/view?usp=sharing
+📄 Resume: https://drive.google.com/file/d/1R34-3icU4VwpBPsp2Jj16yt0tT3URDCF/view?usp=sharing
 
 ## Connect
 GitHub: https://github.com/prajakta2005  
